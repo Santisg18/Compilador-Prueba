@@ -1,0 +1,70 @@
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.exe.config
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.exe
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.pdb
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\obj\Debug\Demencial.izi.csprojResolveAssemblyReference.cache
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.Form1.resources
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.Properties.Resources.resources
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\obj\Debug\Demencial.izi.csproj.GenerateResource.Cache
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\obj\Debug\Demencial.izi.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.exe
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.pdb
+C:\Users\user\Downloads\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.exe.config
+C:\Users\user\Downloads\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.exe
+C:\Users\user\Downloads\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.pdb
+C:\Users\user\Downloads\AnalisisDete\AnalisisDete\obj\Debug\Demencial.izi.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.Form1.resources
+C:\Users\user\Downloads\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.Properties.Resources.resources
+C:\Users\user\Downloads\AnalisisDete\AnalisisDete\obj\Debug\Demencial.izi.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\AnalisisDete\AnalisisDete\obj\Debug\Demencial.izi.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.exe
+C:\Users\user\Downloads\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.pdb
+F:\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\bin\Debug\AnalisisDete.exe.config
+F:\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\bin\Debug\AnalisisDete.exe
+F:\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\bin\Debug\AnalisisDete.pdb
+F:\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.Form1.resources
+F:\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.Properties.Resources.resources
+F:\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csproj.GenerateResource.Cache
+F:\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csproj.CoreCompileInputs.cache
+F:\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.exe
+F:\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.pdb
+E:\Universidad\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\bin\Debug\AnalisisDete.exe.config
+E:\Universidad\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\bin\Debug\AnalisisDete.exe
+E:\Universidad\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\bin\Debug\AnalisisDete.pdb
+E:\Universidad\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csprojResolveAssemblyReference.cache
+E:\Universidad\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.Form1.resources
+E:\Universidad\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.Properties.Resources.resources
+E:\Universidad\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csproj.GenerateResource.cache
+E:\Universidad\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csproj.CoreCompileInputs.cache
+E:\Universidad\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.exe
+E:\Universidad\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.pdb
+F:\Compiladores\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Entrega #2 (10%)\C#\AnalisisDete\bin\Debug\AnalisisDete.exe.config
+C:\Users\user\Desktop\Entrega #2 (10%)\C#\AnalisisDete\bin\Debug\AnalisisDete.exe
+C:\Users\user\Desktop\Entrega #2 (10%)\C#\AnalisisDete\bin\Debug\AnalisisDete.pdb
+C:\Users\user\Desktop\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.Form1.resources
+C:\Users\user\Desktop\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.Properties.Resources.resources
+C:\Users\user\Desktop\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.exe
+C:\Users\user\Desktop\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.pdb
+F:\Entrega #2 (10%)\C#\AnalisisDete\bin\Debug\AnalisisDete.exe.config
+F:\Entrega #2 (10%)\C#\AnalisisDete\bin\Debug\AnalisisDete.exe
+F:\Entrega #2 (10%)\C#\AnalisisDete\bin\Debug\AnalisisDete.pdb
+F:\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csprojAssemblyReference.cache
+F:\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.Form1.resources
+F:\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.Properties.Resources.resources
+F:\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csproj.GenerateResource.cache
+F:\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csproj.CoreCompileInputs.cache
+F:\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.exe
+F:\Entrega #2 (10%)\C#\AnalisisDete\obj\Debug\AnalisisDete.pdb
+E:\Universidad\Compiladores\Entrega #2 y #3 (20%)\C#\AnalisisDete\bin\Debug\AnalisisDete.exe.config
+E:\Universidad\Compiladores\Entrega #2 y #3 (20%)\C#\AnalisisDete\bin\Debug\AnalisisDete.exe
+E:\Universidad\Compiladores\Entrega #2 y #3 (20%)\C#\AnalisisDete\bin\Debug\AnalisisDete.pdb
+E:\Universidad\Compiladores\Entrega #2 y #3 (20%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csprojAssemblyReference.cache
+E:\Universidad\Compiladores\Entrega #2 y #3 (20%)\C#\AnalisisDete\obj\Debug\AnalisisDete.Form1.resources
+E:\Universidad\Compiladores\Entrega #2 y #3 (20%)\C#\AnalisisDete\obj\Debug\AnalisisDete.Properties.Resources.resources
+E:\Universidad\Compiladores\Entrega #2 y #3 (20%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csproj.GenerateResource.cache
+E:\Universidad\Compiladores\Entrega #2 y #3 (20%)\C#\AnalisisDete\obj\Debug\Demencial.izi.csproj.CoreCompileInputs.cache
+E:\Universidad\Compiladores\Entrega #2 y #3 (20%)\C#\AnalisisDete\obj\Debug\AnalisisDete.exe
+E:\Universidad\Compiladores\Entrega #2 y #3 (20%)\C#\AnalisisDete\obj\Debug\AnalisisDete.pdb

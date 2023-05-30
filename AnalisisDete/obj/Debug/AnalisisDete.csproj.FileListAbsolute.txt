@@ -1,0 +1,30 @@
+C:\Users\gbonillam\source\repos\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.exe.config
+C:\Users\gbonillam\source\repos\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.exe
+C:\Users\gbonillam\source\repos\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.pdb
+C:\Users\gbonillam\source\repos\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.csprojResolveAssemblyReference.cache
+C:\Users\gbonillam\source\repos\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.Form1.resources
+C:\Users\gbonillam\source\repos\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.Properties.Resources.resources
+C:\Users\gbonillam\source\repos\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.csproj.GenerateResource.Cache
+C:\Users\gbonillam\source\repos\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.csproj.CoreCompileInputs.cache
+C:\Users\gbonillam\source\repos\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.exe
+C:\Users\gbonillam\source\repos\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.pdb
+C:\Users\ASUS\Documents\Jota\compiladores\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Jota\compiladores\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.Form1.resources
+C:\Users\ASUS\Documents\Jota\compiladores\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.Properties.Resources.resources
+C:\Users\ASUS\Documents\Jota\compiladores\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Jota\compiladores\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Jota\compiladores\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.pdb
+C:\Users\ASUS\Documents\Jota\compiladores\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.exe.config
+C:\Users\ASUS\Documents\Jota\compiladores\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.exe
+C:\Users\ASUS\Documents\Jota\compiladores\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.pdb
+C:\Users\ASUS\Documents\Jota\compiladores\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.exe
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.exe.config
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.exe
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\bin\Debug\AnalisisDete.pdb
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.csprojResolveAssemblyReference.cache
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.Form1.resources
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.Properties.Resources.resources
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.csproj.GenerateResource.Cache
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.csproj.CoreCompileInputs.cache
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.exe
+C:\Users\David\Downloads\AnalisisDete (1)\AnalisisDete\AnalisisDete\obj\Debug\AnalisisDete.pdb
